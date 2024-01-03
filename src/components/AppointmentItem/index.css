@@ -1,0 +1,27 @@
+/* Write your CSS here */
+
+.app-item {
+  width: 30%;
+  border-radius: 20px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  border: solid 1px #b5b7c4;
+  margin-right: 20px;
+}
+
+.star-butt {
+  border-style: none;
+  background-color: transparent;
+  margin-top: 5px;
+}
+
+.title-para {
+  color: #171f46;
+  font-weight: bold;
+}
+
+.date-para {
+  color: #b5b7c4;
+}
